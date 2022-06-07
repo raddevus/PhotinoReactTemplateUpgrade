@@ -11,3 +11,7 @@ To upgrade your PhotinoReact project template:
      d) cd back to root
      e) start the dotnet project
 </pre>
+
+### Update - Added make.sh For Linux
+
+If you're running on Linux run the make.sh script from your Project Root & it will handle npm run build, build dotnet & run the app.
